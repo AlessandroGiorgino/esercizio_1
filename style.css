@@ -1,0 +1,65 @@
+/*STle per le task ricevute*/
+body {
+  height: 100vh;
+  background-image: url(/assets/table.jpg);
+}
+.containerGenerale {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  background-image: url("/assets/blank-white-notepaper-design-vector_53876-161342.avif");
+
+  border-radius: 20px;
+}
+
+.sezioneTitoloneAlto {
+  margin-bottom: 3em;
+  background-color: #ecd27e;
+  height: 15em;
+  margin-top: 2em;
+  border-radius: 20px;
+}
+h1 {
+  text-align: center;
+  padding: 2em;
+  font-size: 50px;
+}
+div > label {
+  margin-left: 13em;
+}
+
+#newTask {
+  margin-left: 12.5em;
+  margin-bottom: 3em;
+}
+#invio {
+  margin-left: 13em;
+  margin-bottom: 3em;
+  border-radius: 0.5em;
+  width: 10em;
+  height: 4em;
+  color: white;
+  background-color: #ecd27e;
+}
+.quiDivs {
+  width: 3em;
+}
+.stileContenitoreTask {
+  width: 10rem;
+  height: 5em;
+  margin-top: 2em;
+  margin-bottom: 5em;
+  padding: 1em;
+}
+
+.pTask {
+  display: inline;
+  font-size: x-large;
+}
+
+.deleteButton {
+  width: 5em;
+  margin-left: 15em;
+  position: relative;
+  bottom: 1.5em;
+}
